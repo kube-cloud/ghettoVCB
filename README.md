@@ -31,6 +31,7 @@ esxcli software vib update -d /vghetto-ghettoVCB-offline-bundle.zip -f
 ```
 
 ### Additional Documentation & Resources
+- [Practical Usage](https://www.virten.net/2016/04/backup-solutions-for-free-esxi/)
 - [ghettoVCB Documentation](http://communities.vmware.com/docs/DOC-8760)
 - [ghettoVCB VMTN Group](http://communities.vmware.com/groups/ghettovcb)
 - [ghettoVCB Restore Documentation](http://communities.vmware.com/docs/DOC-10595)
